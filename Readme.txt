@@ -5,5 +5,5 @@ CÒN LẠI :
 	Vật lý của trái bóng
 	Tương tác cầu thủ với bóng
 	Tải hình và nhạc
-	Điểm thị điểm số ...
+	Hiển thị điểm số ...
 	
