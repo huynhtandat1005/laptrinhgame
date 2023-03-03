@@ -1,2 +1,9 @@
-W A S D to move left side
-up left down right to move right side
+ĐÃ LÀM : 
+	Bấm W A S D để điều khiển đội đỏ
+	Bấm mũi tên lên, trái, xuống, phải để điều khiển đội xanh dương
+CÒN LẠI :
+	Vật lý của trái bóng
+	Tương tác cầu thủ với bóng
+	Tải hình và nhạc
+	Điểm thị điểm số ...
+	
