@@ -1,6 +1,7 @@
 # laptrinhgame
 
 ADD :
+  - BACKGROUND MUSIC
   - ABOUT : INFO GROUP
   - OPTION :
     + ON/OFF BACKGROUND MUSIC
